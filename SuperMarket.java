@@ -14,7 +14,7 @@ public class SuperMarket{
     
     public static void main (String [] args) {
     	
-    	PersonQueueImplement queue = new PersonQueueImplement ();
+    	PersonQueueImpl2 queue = new PersonQueueImpl2 ();
     	
     	Person person = new Person (20, "John");
     	Person person1 = new Person (20, "MEryr");
