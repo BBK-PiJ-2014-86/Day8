@@ -1,4 +1,4 @@
-package day8;
+package Day8;
 
 public interface PersonQueue {
 /**
